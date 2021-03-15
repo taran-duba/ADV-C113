@@ -1,0 +1,3 @@
+p5 Circle: circle(x-axis, y-axis, diameter);
+p5 Ellipse: ellipse(x-axis, y-axis, width, height);
+p5 Rectangle: rect(x-axis, y-axis, width, height);
